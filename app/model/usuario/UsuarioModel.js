@@ -1,0 +1,50 @@
+/**
+ * @author guest
+ */
+Ext.define(
+	'app15.model.usuario.UsuarioModel',
+	{
+		extend: 'Ext.data.Model',
+		fields:
+			[
+				{
+					name:'id',
+					type:'int'
+				},
+				{
+					name:'nombres',
+					type:'string'
+				},
+				{
+					name:'apellidos',
+					type:'string'
+				},
+				{
+					name:'email',
+					type:'string'
+				},
+				{
+					name:'genero',
+					type:'string'
+				},
+				{
+					name:'nacimiento',
+					type:'string'
+				},
+				{
+					name:'registro',
+					type:'string'
+				},
+				{
+					name:'usuario',
+					type:'string'
+				},
+				{
+					name:'borrado',
+					type:'string'
+				}
+			]
+		
+	}
+	
+);
