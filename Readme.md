@@ -1,4 +1,24 @@
+
+#Desarrollo simple de CRUD – PHP para aplicaciones web con Sencha ExtJS 6
+
+Ejemplo en sencha extjs 6 para crud con codeigniter
+
+>Interfaz usa extjs 6
+
+>Codigo de php con framework codeigniter
+
+
 # app15
+
+##Blog del app15 
+
+https://javascriptx.wordpress.com/2015/09/02/desarrollo-simple-de-crud-php-para-aplicaciones-web-con-sencha-extjs-6/
+
+##Video del app 15 
+
+https://www.youtube.com/watch?v=b2i-6weKmPY
+
+
 
 #Proyecto 15 Crud para ExtJS 6
 
@@ -6,7 +26,7 @@ El modo de uso es modificar los fuentes de la carpeta app
 
 Y la modificacion de los fuentes de la carpeta source modifica la aplicacion de lado servidor.
 
-
+--------------------------------------------------------------------------------------------------------
 
 This folder is primarily a container for the top-level pieces of the application.
 While you can remove some files and folders that this application does not use,
